@@ -1,4 +1,4 @@
-export const assignments = [
+const assignments = [
   {
     id: 1,
     title: "Flexbox",
@@ -31,3 +31,5 @@ export const assignments = [
     description: "Donec dapibus. Duis at velit eu est congue elementum.",
   },
 ];
+
+export default assignments;
